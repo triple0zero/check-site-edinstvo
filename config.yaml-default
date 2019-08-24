@@ -1,0 +1,4 @@
+# Работа с телеграммом
+telegram:
+  # Укажите сгенерированый вами alarmerbot key для вашего бота/чата
+  alarmerbot_key: "xxxxxx-xxxxxx-xxxxxx"
